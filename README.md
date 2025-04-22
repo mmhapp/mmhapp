@@ -5,6 +5,7 @@ My [LinkedIn](https://linkedin.com/in/yourprofile)
 ### Projects
 
 My [MSc (Tech) Thesis](https://github.com/username/repository), Side information in Drug–Target Interaction Prediction
+
 My [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908), Convolutional Neural Networks in MRI of Brain Tumours
 
 ### Education
