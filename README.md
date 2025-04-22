@@ -1,11 +1,19 @@
-## Title
+### MSc (Tech) in Biomedical Engineering and Health Technology
 
-[Introduction
+Contact me: [LinkedIn](https://linkedin.com/in/yourprofile)
 
-# Education
+### Introduction
 
-MSc
-Bsc
+🧠
+
+### Repositories
+
+[Repository] (https://github.com/username/repository)
+
+### Education
+
+MSc (Tech) in Biomedical Engineering and Health Technology
+BSc (Tech) in Biomedical Engineering and Health Technology
 
 <!--
 **mmhapp/mmhapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
