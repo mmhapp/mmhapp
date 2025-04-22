@@ -1,19 +1,23 @@
 ### MSc (Tech) in Biomedical Engineering and Health Technology
 
-Contact me: [LinkedIn](https://linkedin.com/in/yourprofile)
+My [LinkedIn](https://linkedin.com/in/yourprofile)
 
-### Introduction
+### Projects
 
-🧠
-
-### Repositories
-
-[Repository] (https://github.com/username/repository)
+My [MSc (Tech) Thesis](https://github.com/username/repository), Side information in Drug–Target Interaction Prediction
+My [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908), Convolutional Neural Networks in MRI of Brain Tumours
 
 ### Education
 
-MSc (Tech) in Biomedical Engineering and Health Technology
-BSc (Tech) in Biomedical Engineering and Health Technology
+Master of Science (Technology),
+Biomedical Engineering and Health Technology,
+University of Turku,
+Sept 2024–Aug 2025,
+
+Bachelor of Science (Technology),
+Biomedical Engineering and Health Technology,
+University of Turku,
+Sept 2021–May 2024,
 
 <!--
 **mmhapp/mmhapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
