@@ -1,6 +1,6 @@
 ### MSc (Tech) in Biomedical Engineering and Health Technology
 
-Contact me at [LinkedIn](https://linkedin.com/in/yourprofile)
+Contact me on [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ### Projects
 
