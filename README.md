@@ -20,9 +20,9 @@ Biomedical Engineering and Health Technology,
 University of Turku,
 Sept 2021–May 2024
 
-Master of Science (Technology)  
-Biomedical Engineering and Health Technology  
-University of Turku  
+Master of Science (Technology),  
+Biomedical Engineering and Health Technology,  
+University of Turku,  
 Sept 2024–Aug 2025
 
 Bachelor of Science (Technology)  
