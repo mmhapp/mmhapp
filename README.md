@@ -13,7 +13,7 @@ My [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908), Convolutional
 Master of Science (Technology),  
 Biomedical Engineering and Health Technology,  
 University of Turku,  
-Sept 2024–Aug 2025
+Sept 2024–Jul 2025
 
 Bachelor of Science (Technology),  
 Biomedical Engineering and Health Technology,  
