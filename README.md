@@ -4,9 +4,9 @@ Contact me on [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ### Theses
 
-My [MSc (Tech) Thesis](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction), Side information in Drug–Target Interaction Prediction
+[MSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908), Side information in Drug–Target Interaction Prediction
 
-My [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908), Convolutional Neural Networks in MRI of Brain Tumours
+[BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908), Convolutional Neural Networks in MRI of Brain Tumours
 
 ### Education
 
