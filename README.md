@@ -2,7 +2,7 @@
 
 Contact me on [LinkedIn](https://linkedin.com/in/yourprofile)
 
-### Projects
+### Theses
 
 My [MSc (Tech) Thesis](https://github.com/username/repository), Side information in Drug–Target Interaction Prediction
 
