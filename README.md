@@ -1,7 +1,5 @@
 ### MSc (Tech) in Biomedical Engineering and Health Technology
 
-MSc with interdisciplinary background in engineering, mathematics, and health technology. Experienced in analysing health data using ML and statistical methods. Focused on AI-driven data analysis in health research and development.
-
 Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
 ### Theses
