@@ -12,17 +12,17 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
 Machine learning
 - Methods: Prediction, Segmentation, Classification
-  Models: FM, XGBoost, CNN, U-Net
-  Libraries: PyTorch, Matplotlib, Neurokit
+- Models: FM, XGBoost, CNN, U-Net
+- Libraries: PyTorch, Matplotlib, Neurokit
   
 Statistical modeling
-  t-testing: EEG
-  Spearman correlation: EEG and BP
+- t-testing: EEG
+- Spearman correlation: EEG and BP
 
 Signal processing
-  Filtering: 
-  Peak Detection: 
-  ICA: EEG
+- Filtering: HP, LP
+- Peak Detection: Derivatives
+- ICA: EEG
 
 <!--
 **mmhapp/mmhapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
