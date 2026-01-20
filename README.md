@@ -11,7 +11,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 ### Methods Used in Projects
 
 Machine learning
-  Methods: Prediction, Segmentation, Classification
+- Methods: Prediction, Segmentation, Classification
   Models: FM, XGBoost, CNN, U-Net
   Libraries: PyTorch, Matplotlib, Neurokit
   
