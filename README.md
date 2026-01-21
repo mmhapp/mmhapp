@@ -1,4 +1,4 @@
-### MSc (Tech) in Biomedical Engineering | Data Analysis, Mathematical Modeling, R&D
+### MSc (Tech) in Biomedical Engineering | Data Analysis, Mathematical Modelling, R&D
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
