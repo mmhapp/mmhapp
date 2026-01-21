@@ -1,4 +1,4 @@
-### MSc (Tech) in Biomedical Engineering | Data Analysis in Health R&D
+### MSc (Tech) in Biomedical Engineering | Data Analysis, Mathematical Modeling, R&D
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
@@ -8,21 +8,20 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
 [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908), Convolutional Neural Networks in MRI of Brain Tumours
 
-### Methods Used in Projects
+### Data Analysis Methods in Recent Projects
 
 Machine learning
-- Methods: Prediction, Segmentation, Classification
-- Models: FM, XGBoost, CNN, U-Net
-- Libraries: PyTorch, Matplotlib, Neurokit
+- Prediction using FM
+- Classification using XGBoost, CNN
+- Segmentation using U-Net
   
 Statistical modeling
-- t-testing: EEG
-- Spearman correlation: EEG and BP
+- Paired t-testing for ERP amplitudes in EEG measurements
 
 Signal processing
-- Filtering: HP, LP
-- Peak Detection: Derivatives
-- ICA: EEG
+- Filtering for ECG, PPG, PCG
+- Peak Detection for ECG, PPG
+- ICA for EEG
 
 <!--
 **mmhapp/mmhapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
