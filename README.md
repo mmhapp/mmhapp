@@ -16,11 +16,13 @@ Machine learning
 - Segmentation using U-Net
   
 Statistical modeling
-- Paired t-testing for ERP amplitudes in EEG measurements
+- Paired t-testing for mean ERP amplitudes in EEG measurements
+- Statistical tests: Mann-Whitney, Kruskal-Wallis
+- Correlation analysis: Pearson, Spearman
 
 Signal processing
-- Filtering for ECG, PPG, PCG
-- Peak Detection for ECG, PPG
+- Filtering for ECG, EEG, PPG, PCG
+- Feature extraction and peak Detection for ECG, EEG, PPG
 - ICA for EEG
 
 <!--
