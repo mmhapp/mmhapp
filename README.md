@@ -4,7 +4,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
 ### Theses
 
-[MSc (Tech) Thesis](https://www.utupub.fi/handle/10024/181501) [[Code]](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction) Side Information in Drug–Target Interaction Prediction
+[MSc (Tech) Thesis](https://www.utupub.fi/handle/10024/181501) Side Information in Drug–Target Interaction Prediction [[Code Repository]](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction) 
 
 [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) Convolutional Neural Networks in MRI of Brain Tumours
 
