@@ -8,7 +8,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
 [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) *Convolutional Neural Networks in MRI of Brain Tumours*
 
-### Data Analysis Methods in Recent Projects
+### Main Data Analysis Methods in Recent Projects
 
 Machine learning
 - Prediction using FM
@@ -20,5 +20,5 @@ Statistical modeling
 - ICA for EEG
 
 Signal processing
-- Filtering for ECG, EEG, PPG, PCG
-- Feature extraction and peak Detection for ECG, EEG, PPG
+- Filtering for ECG, EEG, PPG, PCG, SCG
+- Feature extraction and peak Detection for ECG, EEG, PPG, SCG
