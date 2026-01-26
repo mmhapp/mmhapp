@@ -12,12 +12,12 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
 Machine learning
 - Prediction using FM
-- Classification using XGBoost, CNN
+- Classification using XGB, CNN
 - Segmentation using U-Net
 
 Signal processing
 - Filtering for ECG, EEG, PPG, PCG, SCG
-- Feature extraction and peak Detection for ECG, EEG, PPG, SCG
+- Feature extraction and peak detection for ECG, EEG, PPG, SCG
   
 Mathmetical modelling
 - Paired t-testing for mean ERP amplitudes in EEG measurements
