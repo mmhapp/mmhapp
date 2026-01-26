@@ -1,4 +1,4 @@
-### MSc (Tech) in Biomedical Engineering | Data Analysis, Mathematical Modelling, R&D
+### MSc (Tech) in Biomedical Engineering | Data Science and R&D
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
@@ -14,11 +14,11 @@ Machine learning
 - Prediction using FM
 - Classification using XGBoost, CNN
 - Segmentation using U-Net
-  
-Statistical modeling
-- Paired t-testing for mean ERP amplitudes in EEG measurements
-- ICA for EEG
 
 Signal processing
 - Filtering for ECG, EEG, PPG, PCG, SCG
 - Feature extraction and peak Detection for ECG, EEG, PPG, SCG
+  
+Mathmetical modelling
+- Paired t-testing for mean ERP amplitudes in EEG measurements
+- ICA for EEG
