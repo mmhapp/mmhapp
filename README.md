@@ -1,14 +1,14 @@
-### ⚡️ MSc (Tech) in Biomedical Engineering | Data Science and R&D
+### MSc (Tech) in Biomedical Engineering | Data Science and R&D
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
-### ⚡️ Theses
+### Theses
 
 [MSc (Tech) Thesis](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction) *Side Information in Drug–Target Interaction Prediction* (2025)
 
 [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) *Convolutional Neural Networks in MRI of Brain Tumours* (2024)
 
-### ⚡️ Data Science Methods in Recent Projects
+### Data Science Methods in Recent Projects
 
 Machine learning
 - Prediction using FM
