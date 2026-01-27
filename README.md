@@ -18,7 +18,8 @@ Machine learning
 Signal processing
 - Filtering for ECG, EEG, PPG, PCG, SCG
 - Feature extraction and peak detection for ECG, EEG, PPG, SCG
-  
+
 Mathmetical modelling
+- Statistical testing using Shapiro–Wilk, Mann–Whitney, Kruskal–Wallis
 - Paired t-testing for mean ERP amplitudes in EEG measurements
 - ICA for EEG
