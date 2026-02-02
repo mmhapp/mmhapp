@@ -17,7 +17,8 @@ Machine learning
 
 Signal processing
 - Filtering for ECG, EEG, PPG, PCG, SCG
-- Feature extraction and peak detection for ECG, EEG, PPG, SCG
+- Feature extraction for ECG, EEG, PPG, SCG
+- Peak detection for ECG, EEG, PPG, SCG
 
 Mathmetical modelling
 - Statistical testing using Shapiro–Wilk, Mann–Whitney, Kruskal–Wallis
