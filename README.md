@@ -1,4 +1,4 @@
-### MSc (Tech) in Biomedical Engineering | Data Science | R&D
+### MSc (Tech) in Biomedical Engineering | Data Science | Health Tech | Pharma
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/mikko-happonen-29ab95368/)
 
