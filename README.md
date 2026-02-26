@@ -26,11 +26,11 @@ Mathematical Modelling
 
 Data Analysis
 
-`Dimensionality (e.g. PCA)` · `Statistical inference (e.g. Bayes)` · `Statistical testing (e.g. t-tests)` · `Algorithms (e.g. ICA)`
+`Dimensionality (e.g. PCA)` · `Statistics (e.g. Bayes)` · `Testing (e.g. t-tests)` · `Algorithms (e.g. ICA)`
 
 Signal Processing
 
-`Filtering (Butterworth, MA)` · `Peak detection (AMDP, MSPDT, Pan-Tompkins)` · `Fourier (DFT, FFT, PSD)` · `Signal quality (SNR, SQI)`
+`Filtering (e.g. MA)` · `Peak detection (e.g. AMDP, Pan-Tompkins)` · `Fourier (e.g. DFT, FFT, PSD)` · `Signal quality (e.g. SNR, SQI)`
 
 Software Engineering
 
