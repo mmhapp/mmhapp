@@ -1,6 +1,6 @@
 ### MSc (Tech) in Biomedical Engineering and Health Technology
 
-Integrating computer science (**machine learning**, **mathematical modellin**g, **data analysis**, **signal processing**, **software engineering**) with health technology and pharma domains (**biosignals**, **computational drug discovery**, **neuroimaging**, **medical devices**). Eager to apply my skills in these industries!
+Integrating computer science (**machine learning**, **mathematical modelling**, **data analysis**, **signal processing**, **software engineering**) with health technology and pharma domains (**biosignals**, **computational drug discovery**, **neuroimaging**, **medical devices**).
 
 ### Theses
 
@@ -8,7 +8,7 @@ Integrating computer science (**machine learning**, **mathematical modellin**g, 
 
 [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) *Convolutional Neural Networks in MRI of Brain Tumours* (2024)
 
-### Computer Science in Recent Projects
+### Computer Science Methods in Recent Projects
 
 Machine Learning
 - Prediction (e.g. FM)
@@ -25,9 +25,9 @@ Mathematical Modelling
 - Differential equations
 
 Data Analysis
-- Statistical inference (e.g. p-values)
+- Dimensionality reduction (e.g. PCA)
+- Statistical inference (e.g. Bayes)
 - Statistical testing (e.g. t-tests)
-- Statistics (e.g. Bayes)
 - Algorithms (e.g. ICA)
 
 Signal Processing
@@ -37,8 +37,8 @@ Signal Processing
 - Signal quality (e.g. SNR, SQI)
 
 Software Engineering
-- Embedded Programming
+- Data structures and algorithms
+- Embedded programming
 - Version control
 - Unit testing
-- Usability
 - Databases
