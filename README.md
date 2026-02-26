@@ -1,6 +1,6 @@
 ### MSc (Tech) in Biomedical Engineering and Health Technology
 
-Integrating computer science with medical domains, such as *Biosignals*, *Computational Drug Discovery*, *Neuroimaging*, and *Medical Devices*. Eager to apply my skills in health tech and pharma by leveraging my strong background in mathematics!
+Integrating computer science (**machine learning**, **mathematical modellin**g, **data analysis**, **signal processing**, **software engineering**) with health technology and pharma domains (**biosignals**, **computational drug discovery**, **neuroimaging**, **medical devices**). Eager to apply my skills in these industries!
 
 ### Theses
 
@@ -8,39 +8,37 @@ Integrating computer science with medical domains, such as *Biosignals*, *Comput
 
 [BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) *Convolutional Neural Networks in MRI of Brain Tumours* (2024)
 
-### Computer Science
+### Computer Science in Recent Projects
 
 Machine Learning
 - Prediction (e.g. FM)
-- Classification (e.g. XGB, CNN)
 - Segmentation (e.g. U-Net)
+- Classification (e.g. XGB, CNN)
 
 Mathematical Modelling
 - Calculus
 - Algebra
-- Differential equations
 - Probability
 - Optimisation
 - Vector analysis
 - Numerical Analysis
+- Differential equations
 
 Data Analysis
-- Statistical testing (e.g. Shapiro–Wilk, Mann–Whitney, Kruskal–Wallis)
 - Statistical inference (e.g. p-values)
+- Statistical testing (e.g. t-tests)
 - Statistics (e.g. Bayes)
+- Algorithms (e.g. ICA)
 
 Signal Processing
-- Filtering with frequency and derivative methods
-- Feature extraction for waveforms and trends
-- Peak detection (e.g. AMDP, Pan-Tompkins)
+- Filtering (e.g. Butterworth, derivative, moving average)
+- Peak detection (e.g. AMDP, MSPDT, Pan-Tompkins)
+- Fourier methods (e.g. DFT, FFT, PSD)
 - Signal quality (e.g. SNR, SQI)
-- Fourier methods (e.g. DFT, FFT)
-- Independent component analysis
 
 Software Engineering
-- Algorithms
-- Databases
 - Embedded Programming
-- Unit testing
 - Version control
+- Unit testing
 - Usability
+- Databases
