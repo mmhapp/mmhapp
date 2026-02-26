@@ -30,7 +30,7 @@ Data Analysis
 
 Signal Processing
 
-`Filtering (e.g. MA)` · `Peak detection (e.g. Pan-Tompkins)` · `Fourier (e.g. FFT, PSD)` · `Signal quality (e.g. SNR, SQI)`
+`Filtering (e.g. MA)` · `Peak detection (e.g. AMDP)` · `Fourier (e.g. FFT, PSD)` · `Signal quality (e.g. SNR, SQI)`
 
 Software Engineering
 
