@@ -1,14 +1,12 @@
 ### MSc (Tech) in Biomedical Engineering and Health Technology
 
-Integrating computer science (**machine learning**, **mathematical modelling**, **data analysis**, **signal processing**, **software engineering**) with health technology and pharma domains (**biosignals**, **computational drug discovery**, **neuroimaging**, **medical devices**).
+Integrating computer science (machine learning, mathematical modelling, data analysis, signal processing, software engineering) with health technology and pharma domains (biosignals, computational drug discovery, neuroimaging, medical devices).
 
-### Theses
+MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction))
 
-[MSc (Tech) Thesis](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction) *Side Information in Drug–Target Interaction Predictio*n (2025)
+BSc (Tech) Thesis: Convolutional Neural Networks in MRI of Brain Tumours ([2024](https://www.utupub.fi/handle/10024/176908))
 
-[BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) *Convolutional Neural Networks in MRI of Brain Tumours* (2024)
-
-### Computer Science Methods in Recent Projects
+### Computer Science Skills
 
 Machine Learning
 - Prediction (e.g. FM)
