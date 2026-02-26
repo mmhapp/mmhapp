@@ -1,6 +1,6 @@
 ### MSc (Tech) in Biomedical Engineering and Health Technology
 
-Integrating computer science with medical domains, such as biosignal processing, computational drug discovery, neuroimaging, and medical devices. Eager to apply my skills in health tech and pharma by leveraging my strong background in mathematics!
+Integrating computer science with medical domains, such as biosignals, computational drug discovery, neuroimaging, and medical devices. Eager to apply my skills in health tech and pharma by leveraging my strong background in mathematics!
 
 ### Theses
 
