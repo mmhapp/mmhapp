@@ -4,37 +4,42 @@ Integrating computer science with medical domains, such as biosignals, computati
 
 ### Theses
 
-[MSc (Tech) Thesis](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction) *Side Information in Drug–Target Interaction Prediction* (2025)
+[MSc (Tech) Thesis](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction) Side Information in Drug–Target Interaction Prediction (2025)
 
-[BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) *Convolutional Neural Networks in MRI of Brain Tumours* (2024)
+[BSc (Tech) Thesis](https://www.utupub.fi/handle/10024/176908) Convolutional Neural Networks in MRI of Brain Tumours (2024)
 
 ### Computer Science
 
 Machine Learning
-- Prediction using FM
-- Classification using XGB, CNN
-- Segmentation using U-Net
+- Prediction (e.g. FM)
+- Classification (e.g. XGB, CNN)
+- Segmentation (e.g. U-Net)
 
 Mathematical Modelling
-- Methods: Numerical analysis, Fourier analysis, and mathematical optimization.
-- Modeling: Vector calculus and differential equations in physical/biological contexts.
+- Calculus
+- Algebra
+- Differential equations
+- Probability
+- Optimisation
+- Vector analysis
+- Numerical Analysis
 
 Data Analysis
-- Statistical testing using Shapiro–Wilk, Mann–Whitney, Kruskal–Wallis
-- Paired t-testing for mean ERP amplitudes in EEG measurements
-- statistical testing, statistical inference, statistics
+- Statistical testing (e.g. Shapiro–Wilk, Mann–Whitney, Kruskal–Wallis)
+- Statistical inference (e.g. p-values)
+- Statistics (e.g. Bayes)
 
 Signal Processing
-- Filtering for ECG, EEG, PPG, PCG, SCG
-- Feature extraction for ECG, EEG, PPG, SCG
-- Peak detection for ECG, EEG, PPG, SCG
-- ICA for EEG
-- Signal quality
-- Fourier
+- Filtering with frequency and derivative methods
+- Feature extraction for waveforms and trends
+- Peak detection (e.g. AMDP, Pan-Tompkins)
+- Signal quality (e.g. SNR, SQI)
+- Fourier methods (e.g. DFT, FFT)
+- Independent component analysis
 
 Software Engineering
-- databases
-- embedded programming
-- programming langugaes
-- unit testing
-- version control
+- Language frameworks
+- Embedded Programming
+- Databases
+- Unit testing
+- Version control
