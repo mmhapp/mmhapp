@@ -38,8 +38,9 @@ Signal Processing
 - Independent component analysis
 
 Software Engineering
-- Language frameworks
-- Embedded Programming
+- Algorithms
 - Databases
+- Embedded Programming
 - Unit testing
 - Version control
+- Usability
