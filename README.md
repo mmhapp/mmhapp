@@ -26,11 +26,11 @@ Mathematical Modelling
 
 Data Analysis
 
-`Statistics (Bayes, t-tests)` · `Dimensionality (PCA, ICA)` · `Feature engineering` · `Preprocessing` · `Visualisation`
+`Statistics (Bayes t-tests)` · `Dimensionality (PCA ICA)` · `Feature engineering` · `Preprocessing` · `Visualisation`
 
 Signal Processing
 
-`Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs, PSD)` · `Signal quality (SNR, SQI)`
+`Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs PSD)` · `Signal quality (SNR SQI)`
 
 Software Engineering
 
