@@ -4,7 +4,7 @@
 
 ---
 
-Integrating computer science (machine learning, mathematical modelling, data analysis, signal processing, software engineering) with health technology and pharma domains (biosignals, computational drug discovery, neuroimaging, medical devices). Eager to apply my skills in these industries and utilise strong mathematical skills!
+Integrating computer science (machine learning, mathematical modelling, data analysis, signal processing, software engineering) with health technology and pharma domains (biosignals, computational drug discovery, neuroimaging, medical devices, psychology). Eager to utilise my strong mathematical skills in these industries!
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
@@ -57,6 +57,10 @@ Neuroimaging
 Medical Devices
 
 `Instrumentation` · `Electronics` · `MDR`
+
+Psychology
+
+`Cognitive Neuroscience` · `Experimental designs` · `HCI`
 
 ---
 
