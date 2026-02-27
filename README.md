@@ -56,7 +56,7 @@ Neuroimaging
 
 Medical Devices
 
-`Instrumentation` · `Electronics` · `MDR`
+`Instrumentation` · `Sensors` · `Electronics` · `MDR`
 
 Psychology
 
