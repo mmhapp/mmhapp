@@ -56,7 +56,7 @@ Neuroimaging
 
 Medical Devices
 
-`Instrumentation` · `Electronics` · `Regulation`
+`Instrumentation` · `Electronics` · `MDR`
 
 ---
 
