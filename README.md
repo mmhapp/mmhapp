@@ -22,11 +22,11 @@ Machine Learning
 
 Mathematical Modelling
 
-`Calculus` · `Algebra` · `Optimisation` · `Fourier methods` · `Vector Analysis` · `Numerical Analysis` · `Differential Equations`
+`Calculus` · `Algebra` · `Optimisation` · `Fourier` · `Vector Analysis` · `Numerical Analysis` · `Differential Equations`
 
 Data Analysis
 
-`Statistics (Bayes, t-tests)` · `Dimensionality reduction (PCA, ICA)` · `Feature engineering` · `Preprocessing` · `Visualisation`
+`Statistics (Bayes, t-tests)` · `Dimensionality (PCA, ICA)` · `Feature engineering` · `Preprocessing` · `Visualisation`
 
 Signal Processing
 
