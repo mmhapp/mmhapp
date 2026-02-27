@@ -4,7 +4,7 @@
 
 ---
 
-Integrating computer science (machine learning, mathematical modelling, data analysis, signal processing, software engineering) with health technology and pharma domains (biosignals, computational drug discovery, neuroimaging, medical devices). Eager to apply my skills in these industries!
+Integrating computer science (machine learning, mathematical modelling, data analysis, signal processing, software engineering) with health technology and pharma domains (biosignals, computational drug discovery, neuroimaging, medical devices). Eager to apply my skills in these industries and utilise strong mathematical skills!
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
