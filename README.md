@@ -18,23 +18,23 @@ BSc (Tech) Thesis: Convolutional Neural Networks in MRI of Brain Tumours ([2024]
 
 Machine Learning
 
-`Prediction (e.g. FM)` · `Segmentation (e.g. U-Net)` · `Classification (e.g. XGB, CNN)`
+`Regression (FM)` · `Segmentation (U-Net)` · `Classification (XGB)` · `Neural Networks (CNN)` · `Generative AI (RAG)`
 
 Mathematical Modelling
 
-`Calculus` · `Algebra` · `Probability` · `Optimisation` · `Vector Analysis` · `Numerical Analysis` · `Differential Equations`
+`Calculus` · `Algebra` · `Optimisation` · `Fourier methods` · `Vector Analysis` · `Numerical Analysis` · `Differential Equations`
 
 Data Analysis
 
-`Dimensionality (e.g. PCA)` · `Statistics (e.g. Bayes)` · `Testing (e.g. t-tests)` · `Algorithms (e.g. ICA)`
+`Statistics (Bayes, t-tests)` · `Dimensionality reduction (PCA, ICA)` · `Feature engineering` · `Preprocessing` · `Visualisation`
 
 Signal Processing
 
-`Filtering (e.g. MA)` · `Peak detection (e.g. AMDP)` · `Fourier (e.g. FFT, PSD)` · `Signal quality (e.g. SNR, SQI)`
+`Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs, PSD)` · `Signal quality (SNR, SQI)`
 
 Software Engineering
 
-`Data structures` · `Embedded programming` · `Version control` · `Unit testing` · `Databases`
+`Data structures` · `Algorithms` · `Embedded systems` · `Object-oriented programming` · `Unit testing` · `Databases`
 
 ---
 
@@ -44,15 +44,15 @@ Software Engineering
 
 Biosignals
 
-`ECG, PPG, PCG, SCG, EEG` · `Processing` · `Analysis`
+`ECG PPG PCG SCG EEG` · `Measurement` ·  `Processing` · `Analysis`
 
 Computational Drug Discovery
 
-`Drug–target interactions` · `AI-based prediction`
+`Drug–target interactions` · `Molecular representations` · `AI-based modelling`
 
 Neuroimaging
 
-`MRI, PET, TMS` · `Processing` · `Analysis`
+`MRI PET TMS` · `Brain mapping` · `Processing` · `Analysis`
 
 Medical Devices
 
