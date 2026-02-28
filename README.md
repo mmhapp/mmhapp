@@ -38,7 +38,7 @@ Software Engineering
 
 ---
 
-Biosignals
+Biosignal Analysis
 
 `ECG PPG PCG EEG` · `Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs PSD)` · `Quality (SNR SQI)`
 
