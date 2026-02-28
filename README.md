@@ -18,7 +18,7 @@ BSc (Tech) Thesis: Convolutional Neural Networks in MRI of Brain Tumours ([2024]
 
 Machine Learning
 
-`Regression (FM)` · `Segmentation (U-Net)` · `Classification (XGB)` · `Neural Networks (CNN)` · `Generative AI (RAG)`
+`Prediction (FM)` · `Segmentation (U-Net)` · `Classification (XGB)` · `Neural Networks (CNN)` · `Generative AI (RAG)`
 
 Mathematical Modelling
 
