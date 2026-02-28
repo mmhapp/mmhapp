@@ -4,7 +4,7 @@
 
 ---
 
-Integrating computer science (machine learning, mathematical modelling, data analysis, signal processing, software engineering) with health technology and pharma domains (biosignals, computational drug discovery, neuroimaging, medical devices, psychology). Eager to utilise my strong mathematical skills in these industries!
+Integrating computer science (machine learning, mathematical modelling, data analysis, software engineering) with health technology and pharma domains (biosignal analysis, computational drug discovery, neuroimaging, medical devices). Eager to utilise my strong mathematical skills in these industries!
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
@@ -62,6 +62,24 @@ Medical Devices
 
 Tools
 
-`Python` · `MATLAB` · `Java` · `R` · `C` · `SQL` · `Git` · `Unix`
+Python
+
+`NumPy` · `SciPy` · `skicit-learn` · `Matplotlib` · `PyTorch` · `TensorFlow`
+
+Java
+
+`JUnit` · `OOP`
+
+MATLAB
+
+R
+
+C
+
+SQL
+
+Git
+
+Unix
 
 ---
