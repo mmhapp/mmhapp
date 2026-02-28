@@ -28,10 +28,6 @@ Data Analysis
 
 `Statistics (Bayes t-tests)` · `Dimensionality (PCA ICA)` · `Feature engineering` · `Preprocessing` · `Visualisation`
 
-Signal Processing
-
-`Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs PSD)` · `Signal quality (SNR SQI)`
-
 Software Engineering
 
 `Data structures` · `Algorithms` · `Embedded systems` · `Object-oriented programming` · `Unit testing` · `Databases`
@@ -44,7 +40,7 @@ Software Engineering
 
 Biosignals
 
-`ECG PPG PCG SCG EEG` · `Measurement` ·  `Processing` · `Analysis`
+`ECG PPG PCG SCG EEG` · `Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs PSD)` · `Quality (SNR SQI)`
 
 Computational Drug Discovery
 
@@ -52,15 +48,11 @@ Computational Drug Discovery
 
 Neuroimaging
 
-`MRI PET TMS` · `Brain mapping` · `Processing` · `Analysis`
+`MRI PET TMS` · `Brain mapping` · `Cognitive Neuroscience` · `HCI`
 
 Medical Devices
 
 `Instrumentation` · `Sensors` · `Electronics` · `MDR`
-
-Psychology
-
-`Cognitive Neuroscience` · `Experimental designs` · `HCI`
 
 ---
 
