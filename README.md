@@ -40,7 +40,7 @@ Software Engineering
 
 Biosignals
 
-`ECG PPG PCG SCG EEG` · `Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs PSD)` · `Quality (SNR SQI)`
+`ECG PPG PCG EEG` · `Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs PSD)` · `Quality (SNR SQI)`
 
 Computational Drug Discovery
 
