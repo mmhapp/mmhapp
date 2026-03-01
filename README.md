@@ -4,7 +4,7 @@
 
 ---
 
-Integrating computer science (machine learning, mathematical modelling, data analysis, software engineering) with health technology and pharma domains (biosignal analysis, computational drug discovery, neuroimaging, medical devices). Eager to utilise my strong mathematical skills in these industries!
+Integrating computer science (machine learning, data analysis, software engineering), mathematics (calculus, algebra, probability), and medicine (biosignals, computational drug discovery, neuroimaging). Eager to utilise my skills in health technology and pharma industries!
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
@@ -20,27 +20,23 @@ Machine Learning
 
 `Prediction (FM)` · `Segmentation (U-Net)` · `Classification (XGB)` · `Neural Networks (CNN)` · `Generative AI (RAG)`
 
-Mathematical Modelling
-
-`Calculus` · `Algebra` · `Optimisation` · `Fourier` · `Vector Analysis` · `Numerical Analysis` · `Differential Equations`
-
 Data Analysis
 
-`Statistics (Bayes t-tests)` · `Dimensionality (PCA ICA)` · `Feature engineering` · `Preprocessing` · `Visualisation`
+`Feature engineering` · `Preprocessing` · `Visualisation` · `Dimensionality reduction` · `Hypothesis testing`
 
 Software Engineering
 
-`Data structures` · `Algorithms` · `Embedded systems` · `Object-oriented programming` · `Unit testing` · `Databases`
+`Data structures` · `Embedded systems` · `Object-oriented programming` · `Unit testing` · `Databases`
 
 ---
 
-#### Health Technology and Pharma Domains
+#### Medicine
 
 ---
 
-Biosignal Analysis
+Biosignals
 
-`ECG PPG PCG EEG` · `Filtering (MA)` · `Peak detection (AMDP)` · `Time-frequency analysis (FTs PSD)` · `Quality (SNR SQI)`
+`ECG PPG PCG EEG` · `Filtering (MA)` · `Peak detection (Pan-Tompkins)` · `Time-frequency domain (FT)` · `Instrumentation`
 
 Computational Drug Discovery
 
@@ -48,11 +44,25 @@ Computational Drug Discovery
 
 Neuroimaging
 
-`MRI PET TMS` · `Brain mapping` · `Cognitive Neuroscience` · `HCI`
+`MRI PET TMS` · `Brain mapping` · `Cognitive Neuroscience`
 
-Medical Devices
+---
 
-`Instrumentation` · `Sensors` · `Electronics` · `MDR`
+#### Mathematics
+
+---
+
+Calculus
+
+`Vector analysis (multidimensional change)` · `Differential equations (system dynamics)` · `Fourier methods (signal analysis)`
+
+Algebra
+
+`Linear algebra (high-dimensional spaces)` · `Discrete mathematics (algorithms and logic)` · `Numerical analysis (simulations)`
+
+Probability
+
+`Optimisation (model fitness to data)` · `Statistical inference (t-tests and Bayes)` · `Probability theory (stochastic processes)`
 
 ---
 
@@ -60,11 +70,9 @@ Medical Devices
 
 ---
 
-Tools
-
 Python
 
-`NumPy` · `SciPy` · `skicit-learn` · `Matplotlib` · `PyTorch` · `TensorFlow`
+`NumPy` · `SciPy` · `Matplotlib` · `scikit-learn` · `PyTorch` · `TensorFlow`
 
 Java
 
