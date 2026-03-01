@@ -54,7 +54,7 @@ Neuroimaging
 
 Calculus
 
-`Vector analysis (multidimensional change)` · `Differential equations (system dynamics)` · `Fourier methods (signal analysis)`
+`Vector analysis (multidimensional change)` · `Differential equations (dynamics)` · `Fourier methods (signal analysis)`
 
 Algebra
 
