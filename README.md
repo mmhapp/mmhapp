@@ -58,11 +58,11 @@ Calculus
 
 Algebra
 
-`Linear algebra (high-dimensional spaces)` · `Discrete mathematics (algorithms and logic)` · `Numerical analysis (simulations)`
+`Linear algebra (high-dimensional spaces)` · `Discrete mathematics (algorithms, logic)` · `Numerical analysis (simulations)`
 
 Probability
 
-`Optimisation (model fitness to data)` · `Statistical inference (t-tests and Bayes)` · `Probability theory (stochastic processes)`
+`Optimisation (model fitness to data)` · `Statistical inference (t-tests, Bayes)` · `Probability theory (stochastic processes)`
 
 ---
 
