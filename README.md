@@ -4,7 +4,7 @@
 
 ---
 
-Integrating computer science (machine learning, data analysis, software engineering), mathematics (calculus, algebra, probability), and medicine (biosignals, computational drug discovery, neuroimaging). Eager to utilise my skills in health technology and pharma industries!
+Integrating computer science (machine learning, data analysis, software engineering), mathematics (calculus, algebra, probability), and medicine (biosignals, computational drug discovery, neuroimaging). Eager to leverage my skills in the health tech and pharma sectors!
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
