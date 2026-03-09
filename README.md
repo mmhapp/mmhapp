@@ -30,24 +30,6 @@ Software Engineering
 
 ---
 
-#### Medicine
-
----
-
-Biosignals
-
-`ECG PPG PCG EEG` · `Filtering (MA)` · `Peak detection (Pan-Tompkins)` · `Time-frequency domain (FT)` · `Instrumentation`
-
-Computational Drug Discovery
-
-`Drug–target interactions` · `Molecular representations` · `AI-based modelling`
-
-Neuroimaging
-
-`MRI PET TMS` · `Brain mapping` · `Cognitive Neuroscience`
-
----
-
 #### Mathematics
 
 ---
@@ -63,6 +45,24 @@ Algebra
 Probability
 
 `Optimisation (model fitness to data)` · `Statistical inference (Bayes)` · `Probability theory (stochastic processes)`
+
+---
+
+#### Medicine
+
+---
+
+Biosignals
+
+`ECG PPG PCG EEG` · `Filtering (MA)` · `Peak detection (Pan-Tompkins)` · `Time-frequency domain (FT)` · `Instrumentation`
+
+Computational Drug Discovery
+
+`Drug–target interactions` · `Molecular representations` · `AI-based modelling`
+
+Neuroimaging
+
+`MRI PET TMS` · `Brain mapping` · `Cognitive Neuroscience`
 
 ---
 
