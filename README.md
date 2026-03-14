@@ -18,15 +18,15 @@ BSc (Tech) Thesis: Convolutional Neural Networks in MRI of Brain Tumours ([2024]
 
 Machine Learning
 
-`Prediction (FM)` · `Segmentation (U-Net)` · `Classification (XGB)` · `Neural Networks (CNN)` · `Generative AI (RAG)`
+`Prediction (FM)` · `Segmentation (U-Net)` · `Classification (XGB)` · `Deep Learning (CNN)` · `Generative AI (LLM)`
 
 Data Analysis
 
-`Feature engineering` · `Preprocessing` · `Visualisation` · `Dimensionality reduction` · `Hypothesis testing`
+`Preprocessing` · `Feature engineering` · `Dimensionality reduction` · `Hypothesis testing`· `Visualisation` 
 
 Software Engineering
 
-`Data structures` · `Embedded systems` · `Object-oriented programming` · `Unit testing` · `Databases`
+`Databases` · `Data structures` · `Embedded systems` · `Object-oriented programming` · `Unit testing`
 
 ---
 
@@ -58,7 +58,7 @@ Biosignals
 
 Computational Drug Discovery
 
-`Drug–target interactions` · `Molecular representations` · `AI-based modelling`
+`Drug–target interactions` · `AI-based modelling` · `Molecular representations`
 
 Neuroimaging
 
