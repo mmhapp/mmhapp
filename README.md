@@ -26,7 +26,7 @@ Data Analysis
 
 Software Engineering
 
-`Databases` · `Data structures` · `Embedded systems` · `Object-oriented programming` · `Unit testing`
+`Databases` · `Data structures` · `Embedded systems` · `High-performance computing` · `Unit testing`
 
 ---
 
