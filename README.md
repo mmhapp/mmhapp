@@ -54,15 +54,15 @@ Probability
 
 Biosignals
 
-`ECG PPG PCG EEG` · `Filtering (MA)` · `Peak detection (Pan-Tompkins)` · `Time-frequency domain (FT)` · `Instrumentation`
+`ECG` · `PPG` · `PCG` · `EEG` · `Instrumentation` · `Peak detection` · `Filtering (MA)` · `Time-frequency analysis (FT)`
 
-Computational Drug Discovery
+Drug Discovery
 
-`Drug–target interactions` · `AI-based modelling` · `Molecular representations`
+`Drug–target interactions`· `Molecular representations` · `AI-based modelling` 
 
 Neuroimaging
 
-`MRI PET TMS` · `Brain mapping` · `Cognitive Neuroscience`
+`MRI` · `PET` · `TMS` · `Brain mapping` · `Cognitive Neuroscience`
 
 ---
 
