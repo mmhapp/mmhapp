@@ -8,7 +8,7 @@ Integrating computer science (machine learning, data analysis, software engineer
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
-BSc (Tech) Thesis: Convolutional Neural Networks in MRI of Brain Tumours ([2024](https://www.utupub.fi/handle/10024/176908))
+BSc (Tech) Thesis: Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ([2024](https://www.utupub.fi/handle/10024/176908))
 
 ---
 
