@@ -4,7 +4,7 @@
 
 ---
 
-Integrating computer science (machine learning, data analysis, software engineering) and mathematics (calculus, algebra, probability) for health (biosignals, computational drug discovery, neuroimaging) — by engineering autonomous AI workflows.
+Integrating computer science and mathematics for health solutions—by engineering autonomous AI workflows.
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
