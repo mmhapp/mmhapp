@@ -18,7 +18,7 @@ BSc (Tech) Thesis: Convolutional Neural Networks in Magnetic Resonance Imaging o
 
 Machine Learning
 
-`Prediction (FM)` · `Segmentation (U-Net)` · `Classification (XGB)` · `Deep Learning (CNN)` · `Generative AI (LLM)`
+`Prediction` · `Segmentation` · `Classification` · `Deep learning` · `Generative models`
 
 Data Analysis
 
@@ -54,15 +54,16 @@ Probability
 
 Biosignals
 
-`ECG` · `PPG` · `PCG` · `EEG` · `Instrumentation` · `Peak detection` · `Filtering` · `Time-frequency domain`
+`ECG` · `PPG` · `PCG` · `EEG` · `Instrumentation` · `Peak detection` · `Feature Extraction` · `Filtering` · `Time-frequency domain`
+
+Neuroimaging
+
+`MRI`· `DTI` · `PET` · `TMS` · `Brain mapping` · `Neuroanatomy` · `Cognitive Neuroscience`
 
 Drug Discovery
 
 `Drug–target interactions`· `Molecular representations` · `AI-based modelling` 
 
-Neuroimaging
-
-`MRI` · `PET` · `TMS` · `Brain mapping` · `Cognitive Neuroscience`
 
 ---
 
@@ -78,7 +79,7 @@ Neuroimaging
 ![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16711.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
