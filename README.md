@@ -54,7 +54,7 @@ Probability
 
 Biosignals
 
-`ECG` · `PPG` · `PCG` · `EEG` · `Instrumentation` · `Peak detection` · `Filtering (MA)` · `Time-frequency analysis (FT)`
+`ECG` · `PPG` · `PCG` · `EEG` · `Instrumentation` · `Peak detection` · `Filtering` · `Time-frequency domain`
 
 Drug Discovery
 
