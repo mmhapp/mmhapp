@@ -56,14 +56,13 @@ Biosignals
 
 `ECG` · `PPG` · `PCG` · `EEG` · `Instrumentation` · `Peak detection` · `Feature Extraction` · `Filtering` · `Time-frequency domain`
 
+Drug Discovery
+
+`Drug–target interactions`· `Molecular representations` · `AI-based modelling`
+
 Neuroimaging
 
 `MRI`· `DTI` · `PET` · `TMS` · `Brain mapping` · `Neuroanatomy` · `Cognitive Neuroscience`
-
-Drug Discovery
-
-`Drug–target interactions`· `Molecular representations` · `AI-based modelling` 
-
 
 ---
 
