@@ -1,6 +1,6 @@
 #### Health Data Scientist | MSc (Tech) in Biomedical Engineering
 
-Integrating computer science and mathematics for health solutions—by engineering autonomous AI workflows.
+Integrating computer science and mathematics for health data science—by engineering AI-augmented workflows.
 
 MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
 
