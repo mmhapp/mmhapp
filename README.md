@@ -1,10 +1,12 @@
-#### MSc (Tech) in Biomedical Engineering
+#### Biomedical Data Scientist
 
-Driving healthcare solutions by integrating computer science, mathematics, and AI engineering. Developing computational methods to model and analyse complex biomedical systems.
+Solving healthcare challenges by integrating computer science, mathematics, and AI engineering. Developing computational methods to model, analyse, and optimise complex biomedical systems.
 
-MSc (Tech) Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
+#### Degrees
 
-BSc (Tech) Thesis: Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ([2024](https://www.utupub.fi/handle/10024/176908))
+MSc (Tech), Biomedical Engineering, Thesis: Side Information in Drug–Target Interaction Prediction ([2025](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md))
+
+BSc (Tech), Biomedical Engineering, Thesis: Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ([2024](https://www.utupub.fi/handle/10024/176908))
 
 #### Areas of Expertise
 
