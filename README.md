@@ -1,4 +1,4 @@
-#### Biomedical Data Scientist
+#### Health Data Scientist
 
 Solving healthcare challenges by integrating computer science, mathematics, and AI engineering. Developing computational methods to model, analyse, and optimise complex biomedical systems.
 
