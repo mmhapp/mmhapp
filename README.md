@@ -14,4 +14,4 @@ BSc (Tech) · Biomedical Engineering · Thesis: [Convolutional Neural Networks i
 
 #### Tech Stack
 
-`Python` · `MATLAB`  · `Java` · `R` · `C` · `SQL` · `Git` · `Unix`
+`Python` · `MATLAB`  · `Java` · `SQL` · `R` · `C` · `Unix` · `Git` · `Docker` · `AWS` · `GCP` · `Azure`
