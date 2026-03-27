@@ -1,6 +1,6 @@
 #### Health Data Scientist
 
-Solving healthcare challenges by integrating computer science, mathematics, and AI engineering. Looking to scale modern data solutions into clinical environments through reliable technology.
+Hands-on experience in developing computational solutions for biomedical systems. Looking to bridge the gap between modern data solutions and practical clinical applications.
 
 #### Degrees
 
@@ -8,6 +8,10 @@ MSc (Tech) · Biomedical Engineering · Thesis: [Side Information in Drug–Targ
 
 BSc (Tech) · Biomedical Engineering · Thesis: [Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ](https://www.utupub.fi/handle/10024/176908)
 
-#### Tech Stack
+#### Areas of Expertise
 
-`Python` · `MATLAB`  · `Java` · `SQL` · `R` · `C` · `Unix` · `Git` · `Docker` · `AWS` · `GCP` · `Azure`
+`Computer Science` · `Mathematics`  · `Healthcare` · `AI Engineering`
+
+#### Technology Stack
+
+`Python` · `MATLAB`  · `Java` · `SQL` · `R` · `C` · `Unix` · `Git` · `Flask` · `Docker` · `Airflow`
