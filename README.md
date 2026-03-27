@@ -1,6 +1,6 @@
 #### Health Data Scientist
 
-Hands-on experience in developing computational solutions for biomedical systems. Looking to bridge the gap between modern data solutions and practical clinical applications.
+Health Data Scientist – Hands-on experience in developing computational methods for clinical applications. Integrating computer science, mathematics, and AI engineering for healthcare.
 
 #### Degrees
 
