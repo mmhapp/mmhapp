@@ -1,6 +1,6 @@
 #### Health Data Scientist
 
-Health Data Scientist – Hands-on experience in developing computational methods for clinical applications. Integrating computer science, mathematics, and AI engineering for healthcare.
+Hands-on experience in developing computational methods for clinical applications. Integrating computer science, mathematics, and AI engineering for healthcare.
 
 #### Degrees
 
