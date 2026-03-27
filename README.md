@@ -8,10 +8,6 @@ MSc (Tech) · Biomedical Engineering · Thesis: [Side Information in Drug–Targ
 
 BSc (Tech) · Biomedical Engineering · Thesis: [Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ](https://www.utupub.fi/handle/10024/176908)
 
-#### Areas of Expertise
-
-`Computer Science` · `Mathematics` · `Healthcare` · `AI Engineering`
-
 #### Tech Stack
 
 `Python` · `MATLAB`  · `Java` · `SQL` · `R` · `C` · `Unix` · `Git` · `Docker` · `AWS` · `GCP` · `Azure`
