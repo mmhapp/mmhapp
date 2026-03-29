@@ -1,4 +1,4 @@
-#### Health Data Scientist
+#### Health Data Scientist | MSc (Tech) in Biomedical Engineering
 
 Hands-on experience in developing computational methods for clinical applications. Integrating computer science, mathematics, and AI engineering for healthcare.
 
