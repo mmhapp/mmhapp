@@ -10,8 +10,8 @@ BSc (Tech) · Biomedical Engineering · [Convolutional Neural Networks in Magnet
 
 #### Areas of Expertise
 
-`Computer Science` · `Mathematics` · `AI Engineering` · `Healthcare`
+`Artificial Intelligence` · `Data Engineering ` · `Natural Sciences`
 
 #### Technology Stack
 
-`Python` · `MATLAB` · `R` · `Java` · `C` · `SQL` · `Unix` · `Git` · `Flask` · `Docker` · `Airflow`
+`Python` · `MATLAB` · `Java` · `R` · `C` · `SQL` · `Unix` · `Git` · `Flask` · `Docker` · `Airflow`
