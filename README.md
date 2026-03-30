@@ -1,6 +1,6 @@
 #### Health Data Scientist | MSc (Tech) in Biomedical Engineering
 
-Hands-on experience in developing computational methods for clinical applications. Integrating computer science, mathematics, and AI engineering for healthcare.
+Hands-on experience in developing computational methods for clinical applications. Integrating artificial intelligence, data engineering, and natural sciences for healthcare solutions.
 
 #### Degrees
 
@@ -14,4 +14,4 @@ BSc (Tech) · Biomedical Engineering · [Convolutional Neural Networks in Magnet
 
 #### Technology Stack
 
-`Python` · `MATLAB`  · `Java` · `SQL` · `R` · `C` · `Unix` · `Git` · `Flask` · `Docker` · `Airflow`
+`Python` · `MATLAB` · `R` · `Java` · `C` · `SQL` · `Unix` · `Git` · `Flask` · `Docker` · `Airflow`
