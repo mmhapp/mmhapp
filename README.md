@@ -14,4 +14,4 @@ BSc (Tech) · Biomedical Engineering · [Convolutional Neural Networks in Magnet
 
 #### Technology Stack
 
-`Python` · `MATLAB` · `Java` · `R` · `C` · `SQL` · `Unix` · `Git` · `Flask` · `Docker` · `Airflow`
+`Python` · `Java` · `MATLAB` · `R` · `C` · `SQL` · `Unix` · `Git` · `Flask` · `Docker` · `Airflow`
