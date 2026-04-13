@@ -1,6 +1,6 @@
 #### Health Data Scientist | MSc (Tech) in Biomedical Engineering
 
-Developing computational solutions for healthcare applications, such as biosignal analysis and drug discovery, by integrating artificial intelligence, data engineering, and natural sciences.
+Developing computational methods for healthcare applications, such as biosignal analysis and drug discovery, by integrating artificial intelligence, data engineering, and natural sciences.
 
 #### Degrees
 
