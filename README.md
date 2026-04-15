@@ -1,6 +1,6 @@
 #### MSc (Tech) in Biomedical Engineering
 
-Hands-on experience in developing computational methods and data solutions for healthcare, such as biosignal analysis and drug discovery, by integrating artificial intelligence, data engineering, and natural sciences.
+Hands-on experience in healthcare-related computational methods and data solutions, specialising in drug discovery, biosignal analysis, health wearables, medical imaging, and neurotechnology.
 
 #### Degrees
 
