@@ -10,7 +10,7 @@ BSc (Tech) · Biomedical Engineering · [Convolutional Neural Networks in Magnet
 
 #### Areas of Expertise
 
-`Artificial Intelligence` · `Data Engineering` · `Natural Sciences`
+`Natural Sciences` · `Artificial Intelligence` · `Data Engineering`
 
 #### Technology Stack
 
