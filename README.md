@@ -1,6 +1,6 @@
 #### MSc (Tech) in Biomedical Engineering
 
-Hands-on experience in healthcare-related computational methods and data solutions, such as biosignal analysis,  drug discovery, health wearables, medical imaging, and neurotechnology.
+Hands-on experience in healthcare-related computational methods and data solutions, such as biosignal analysis, drug discovery, health wearables, medical imaging, and neurotechnology.
 
 #### Degrees
 
