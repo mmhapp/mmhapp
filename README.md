@@ -1,6 +1,6 @@
-#### MSc (Tech) in Biomedical Engineering
+#### Biomedical Engineer
 
-Hands-on experience in healthcare-related data-driven solutions, such as biosignal analysis, drug discovery, medical imaging, and neurotechnology.
+Biomedical engineer with a hands-on experience in healthcare-related computational solutions, such as biosignal analysis, drug discovery, medical imaging, and neurotechnology.
 
 #### Degrees
 
