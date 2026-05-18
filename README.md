@@ -1,6 +1,6 @@
-#### Biomedical Engineer
+#### MSc (Tech) in Biomedical Engineering
 
-Biomedical engineer with a hands-on experience in healthcare-related computational solutions, such as biosignal analysis, drug discovery, medical imaging, and neurotechnology.
+Biomedical engineer specialised in developing algorithms for biosignal analysis, drug discovery, medical imaging, and neurotechnology achieving e.g. C ≥ 0.83 and AUROC ≥ 0.84 for AI models.
 
 #### Degrees
 
