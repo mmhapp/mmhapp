@@ -1,6 +1,6 @@
-#### MSc (Tech) in Biomedical Engineering
+#### Biomedical Engineer
 
-Biomedical engineer specialised in developing algorithms for biosignal analysis, drug discovery, medical imaging, and neurotechnology – achieving e.g. C ≥ 0.83 and AUROC ≥ 0.84 for AI models.
+Biomedical engineer specialised in developing algorithms and models for biosignal analysis, drug discovery, medical imaging, and neurotechnology – AI performance of  C ≥ 0.83, AUROC ≥ 0.84.
 
 #### Degrees
 
