@@ -1,6 +1,6 @@
 #### Biomedical Engineer
 
-Biomedical engineer specialised in developing algorithms and models for biosignal analysis, drug discovery, medical imaging, and neurotechnology – built AI with C-index ≥ 0.83, AUROC ≥ 0.84.
+Biomedical engineer specialised in developing algorithms and models for biosignal analysis, drug discovery, medical imaging, and neurotechnology. Built AI with C-index ≥ 0.83, AUROC ≥ 0.84.
 
 #### Degrees
 
