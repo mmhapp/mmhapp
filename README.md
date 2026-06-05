@@ -1,12 +1,16 @@
-#### Biomedical Engineer
+#### Biomedical Engineer | MSc (Tech)
 
-Biomedical engineer specialised in developing algorithms and models for biosignal analysis, drug discovery, medical imaging, and neurotechnology. Built AI with C-index ≥ 0.83, AUROC ≥ 0.84.
+Biomedical engineer with MSc (Tech) and a focus on data solutions for biosignal analysis, drug discovery, medical imaging, and neurotechnology. Built AI with C-index ≥ 0.83, AUROC ≥ 0.84.
 
 #### Degrees
 
 MSc (Tech) · Biomedical Engineering · [Side Information in Drug–Target Interaction Prediction ](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md)
 
 BSc (Tech) · Biomedical Engineering · [Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ](https://www.utupub.fi/handle/10024/176908)
+
+#### Areas of expertise
+
+`Natural Sciences` · `Artificial Intelligence` · `Quantitative Modelling` · `Computational Healthcare`
 
 #### Technology Stack
 
