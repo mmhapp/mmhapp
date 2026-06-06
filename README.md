@@ -4,9 +4,9 @@ Biomedical engineer with MSc (Tech) and a focus on data solutions for biosignal 
 
 #### Degrees
 
-MSc (Tech) · Biomedical Engineering · [Side Information in Drug–Target Interaction Prediction ](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md)
+MSc (Tech) | Biomedical Engineering | [Side Information in Drug–Target Interaction Prediction ](https://github.com/mmhapp/Side-Information-in-Drug-Target-Interaction-Prediction/blob/main/README.md)
 
-BSc (Tech) · Biomedical Engineering · [Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ](https://www.utupub.fi/handle/10024/176908)
+BSc (Tech) | Biomedical Engineering | [Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours ](https://www.utupub.fi/handle/10024/176908)
 
 #### Areas of expertise
 
