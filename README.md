@@ -1,6 +1,6 @@
 #### Biomedical Engineer | MSc (Tech)
 
-Biomedical engineer with MSc (Tech) and a focus on data solutions for biosignal analysis, drug discovery, medical imaging, and neurotechnology. Built AI with C-index ≥ 0.83, AUROC ≥ 0.84.
+Biomedical engineer with MSc (Tech). Data solutions for biosignal analysis, medical imaging, drug discovery, and neurotechnology. AI algorithms, models (C-index ≥ 0.83, AUROC ≥ 0.84), and tools.
 
 #### Degrees
 
