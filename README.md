@@ -1,6 +1,6 @@
 #### Biomedical Engineer | MSc (Tech)
 
-`Biomedical engineer with MSc (Tech). Data solutions for biosignal analysis, medical imaging, drug discovery, and neurotechnology. AI algorithms, models (C-index ≥ 0.83, AUROC ≥ 0.84), and tools.`
+`Biomedical engineer, MSc (Tech). Computational solutions for biosignal analysis, medical imaging, drug discovery, and neurotechnology. AI algorithms, models (C ≥ 0.83, AUROC ≥ 0.84), and tools.`
 
 #### Degrees
 
@@ -10,7 +10,7 @@
 
 #### Areas of expertise
 
-`Natural Sciences` | `Artificial Intelligence` | `Quantitative Modelling` | `Computational Healthcare`
+`Artificial Intelligence` | `Data Science` | `Biomedical Engineering`
 
 #### Technology Stack
 
@@ -18,6 +18,6 @@
 
 #### Projects
 
-[Health Agent](https://github.com/mmhapp/Health-Agent/blob/main/README.md) | `Automated pipeline and agentic AI for Apple Watch sensor data.`
+[Health Agent](https://github.com/mmhapp/Health-Agent/blob/main/README.md) | `Automated pipeline and agentic AI for Apple Watch sensor data`
 
-[Biosignal Analytics](https://github.com/mmhapp?tab=repositories) | `Computational modalities for neurological and cardiovascular data.`
+[Biosignal Analytics](https://github.com/mmhapp?tab=repositories) | `Computational modalities for neurological and cardiovascular data`
