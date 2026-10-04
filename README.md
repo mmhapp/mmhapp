@@ -1,6 +1,6 @@
 #### Biomedical Engineer | MSc (Tech)
 
-`Biomedical engineer, MSc (Tech). Computational solutions for biosignal analysis, medical imaging, drug discovery, and neurotechnology. AI algorithms, models (C ≥ 0.83, AUROC ≥ 0.84), and tools.`
+`Biomedical engineer, MSc (Tech). Health tech software and data solutions (biosignal analysis, drug discovery, medical imaging, neurotech). AI algorithms, models (C ≥ 0.83, AUROC ≥ 0.84), tools.`
 
 #### Degrees
 
