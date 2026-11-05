@@ -12,6 +12,6 @@
 
 Languages | `Python` | `Java` | `R` | `MATLAB` | `SQL`
 
-Frameworks | `PyTorch` | `TensorFlow` | `NumPy`
+Frameworks | `PyTorch` | `TensorFlow` | `Spark`
 
 Tools | `Unix` | `Git` | `Docker` | `Claude Code`
