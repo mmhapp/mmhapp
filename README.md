@@ -6,7 +6,7 @@
 
 [Biosignal Analytics](https://github.com/mmhapp?tab=repositories) | Computational modalities for neurological and cardiovascular data
 
-[Health Agent](https://github.com/mmhapp/Health-Agent/blob/main/README.md) | Automated pipeline and agentic AI for Apple Watch sensor data
+[Health Agent](https://github.com/mmhapp/Health-Agent/blob/main/README.md) | Automated pipeline and agentic AI model for Apple Watch sensor data
 
 ## Technology Stack
 
