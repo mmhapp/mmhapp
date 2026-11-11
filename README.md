@@ -4,7 +4,7 @@
 
 [Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours](https://www.utupub.fi/handle/10024/176908) | BSc (Tech) Thesis in Biomedical Engineering
 
-[Biosignal Analytics](https://github.com/mmhapp?tab=repositories) | Computational modalities for neurological and cardiovascular data
+[Biosignal Analytics](https://github.com/mmhapp/Biosignal-Analytics/blob/main/README.md) | Computational modalities for neurological and cardiovascular data
 
 [Health Agent](https://github.com/mmhapp/Health-Agent/blob/main/README.md) | Automated pipeline and agentic AI model for Apple Watch sensor data
 
