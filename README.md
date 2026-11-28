@@ -4,11 +4,11 @@
 
 [Convolutional Neural Networks in Magnetic Resonance Imaging of Brain Tumours](https://www.utupub.fi/handle/10024/176908) | BSc (Tech) Thesis in Biomedical Engineering
 
-[AI Mathematics](https://github.com/mmhapp/AI-Mathematics/tree/main) | ML concepts from scratch with mathematical derivations
+[PINN Pharmacokinetics](https://github.com/mmhapp/PINN-Pharmacokinetics/) | Concentration of a drug modelled with ODE-based DL model
 
-[LLM Apple Health](https://github.com/mmhapp/Health-Agent/tree/main) | ETL pipeline and agentic AI for Apple Watch sensor data
+[AI Mathematics](https://github.com/mmhapp/AI-Mathematics/) | Backpropagation, Diffusion, and Optimisers derived from scratch
 
-[Biosignal Analytics](https://github.com/mmhapp/Biosignal-Analytics/tree/main) | Methods for neurological and cardiovascular signal analysis
+[LLM Biosignals](https://github.com/mmhapp/LLM-Biosignals/) | ETL pipeline and agentic AI for biosignals and Apple Watch data
 
 ## Technology Stack
 
